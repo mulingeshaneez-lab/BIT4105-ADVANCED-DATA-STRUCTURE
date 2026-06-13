@@ -1,7 +1,7 @@
 import javax.swing.SwingUtilities;
 
 public class Main {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         // Create the background engine logic with 5 parking spaces
         ParkingLot lot = new ParkingLot(5);
 
@@ -11,4 +11,3 @@ public class Main {
             gui.setVisible(true); // Makes the actual window pop up on your monitor
         });
     }
-}
