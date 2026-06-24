@@ -1,5 +1,8 @@
 import java.util.*;
 
+// Author: MelindaKiplagat
+// Data Structures Lead - Role 2
+
 // ------------------------------------------------------------
 // Supporting classes
 // ------------------------------------------------------------
